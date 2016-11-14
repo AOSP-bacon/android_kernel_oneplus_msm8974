@@ -22,7 +22,7 @@
 #define ISP_DBG(fmt, args...) pr_debug(fmt, ##args)
 #endif
 
-#ifdef CONFIG_MACH_MSM8974_14001
+#ifdef CONFIG_MACH_FIND7OP
 #define MSM_ISP_MIN_AB 1600000000ULL
 #define MSM_ISP_MIN_IB 2400000000ULL
 #else
