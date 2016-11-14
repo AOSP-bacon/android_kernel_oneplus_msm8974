@@ -14,6 +14,7 @@
 
 /include/ "msm8974pro-ac-pm8941.dtsi"
 /include/ "msm8974-oppo/msm8974-a0001.dtsi"
+/include/ "project/14001/msm8974-14001.dtsi"
 
 / {
 	model = "Qualcomm MSM 8974Pro-AC One+ A0001";
